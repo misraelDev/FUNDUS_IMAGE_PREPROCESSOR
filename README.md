@@ -135,4 +135,4 @@ Si utilizas este código en tu investigación, por favor cítalo:
 
 - **Nombre:** Misrael Florentino Altamirano
 - **Email:** misraelaltamirano@gmail.com
-- **LinkedIn:** [tu-perfil](https://linkedin.com/in/misraelflorentino/)
+- **LinkedIn:** [Misrael Florentino Altamirano](https://linkedin.com/in/misraelflorentino/)
